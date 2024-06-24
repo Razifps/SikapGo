@@ -1,0 +1,34 @@
+body {
+    font-family: 'Exo', sans-serif;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e3f2fd; /* Warna latar belakang */
+    padding: 20px; /* Padding di sekitar kontainer */
+    border-radius: 10px; /* Sudut membulat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bayangan */
+}
+
+.logo-img {
+    width: 100px; /* Lebar logo */
+    height: auto; /* Tinggi otomatis */
+    margin-bottom: 10px; /* Jarak bawah logo */
+}
+
+.site-title {
+    font-family: 'Exo', sans-serif; /* Font untuk judul */
+    font-size: 2rem; /* Ukuran font judul */
+    color: #333; /* Warna font judul */
+    margin: 0; /* Margin 0 untuk judul */
+}
+
+.subheading {
+    font-family: 'Open Sans', sans-serif; /* Font untuk subjudul */
+    font-size: 1rem; /* Ukuran font subjudul */
+    color: #666; /* Warna font subjudul */
+    margin-top: 5px; /* Jarak atas subjudul */
+}
+
