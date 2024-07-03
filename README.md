@@ -1,5 +1,6 @@
 # Cara Instalasi
-## Mempersiapkan Laravel 1. Masuk ke Direktori Laravel 
+## Mempersiapkan Laravel
+## 1. Masuk ke Direktori Laravel 
 ## 2. Copy file `.env.example` dan rename ke `.env` kemudian edit sesuai dengan kebutuhan 
 ## 3. run command dibawah yang berfungsi untuk menginstall package yang dibutuhkan ``composer install``  kemudian ``npm install `` 
 ## 4. Run command `npm run build` untuk membuat generate css dan js
